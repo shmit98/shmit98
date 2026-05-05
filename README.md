@@ -11,5 +11,7 @@ Currently exploring:
 ---
 
 <p align="center">
-https://github.com/user-attachments/assets/09d34d3f-4eaf-486c-a503-a84ae7295ce0
+
+<img width="540" height="324" alt="gif" src="https://github.com/user-attachments/assets/09d3ec5a-c79e-43c8-9af3-f0cea2736e81" />
+
 </p>
