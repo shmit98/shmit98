@@ -1,16 +1,15 @@
-## Hi there 👋
+## ⛏️ About Me
 
-<!--
-**shmit98/shmit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geologist with a background in GIS, working across gold, copper, nickel, and iron ore systems in Australia.  
+I enjoy building tools that turn messy geological data into clean, decision-ready insights.
 
-Here are some ideas to get you started:
+Currently exploring:
+- 🗺️ GIS + database systems (PostgreSQL/PostGIS)
+- ⚙️ Automation pipelines for geological data
+- 📊 Turning field data into interactive dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <!-- your SVG here -->
+</p>
