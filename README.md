@@ -11,5 +11,5 @@ Currently exploring:
 ---
 
 <p align="center">
-  <!-- your SVG here -->
+https://github.com/user-attachments/assets/09d34d3f-4eaf-486c-a503-a84ae7295ce0
 </p>
