@@ -12,6 +12,7 @@ Currently exploring:
 
 <p align="center">
 
-<img width="540" height="324" alt="gif" src="https://github.com/user-attachments/assets/09d3ec5a-c79e-43c8-9af3-f0cea2736e81" />
+<img width="540" height="324" alt="gif1" src="https://github.com/user-attachments/assets/bda3784a-50a1-4043-ac6f-50b9d2158540" />
+
 
 </p>
